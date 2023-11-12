@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Kucing {
+public class Kucing extends Hewan {
+    public Kucing() {
+        super("Meong");
+    }
 }

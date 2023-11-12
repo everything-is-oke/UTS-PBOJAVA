@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/UTS-PBOJAVA.iml" filepath="$PROJECT_DIR$/.idea/UTS-PBOJAVA.iml" />
       <module fileurl="file://$PROJECT_DIR$/soal_1_hewan/soal_1_hewan.iml" filepath="$PROJECT_DIR$/soal_1_hewan/soal_1_hewan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soal_2_perpus/soal_2_perpus.iml" filepath="$PROJECT_DIR$/soal_2_perpus/soal_2_perpus.iml" />
     </modules>
   </component>
 </project>

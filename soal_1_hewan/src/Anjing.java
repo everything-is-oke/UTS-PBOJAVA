@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Anjing {
+public class Anjing extends Hewan {
+    public Anjing() {
+        super("Guk Guk");
+    }
 }
